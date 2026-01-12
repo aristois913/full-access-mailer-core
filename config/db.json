@@ -1,0 +1,9 @@
+{
+    "users": {
+        "ENTER_ADMIN_TELEGRAM_ID_HERE": {
+            "admin": true,
+            "emails": {},
+            "template": ""
+        }
+    }
+}
